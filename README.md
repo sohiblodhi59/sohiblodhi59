@@ -1,7 +1,7 @@
 <!-- ═══════════════════════ HEADER BANNER (CLICKABLE) ═══════════════════════ -->
 <p align="center">
   <a href="https://github.com/sohiblodhi59" target="_blank">
-    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:0A2342,65:0066CC,100:00C9FF&height=240&section=header&text=Sohib%20Khan&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Tester%20%7C%20QA%20Engineer%20%7C%20Bug%20Hunter&descAlignY=58&descSize=19&descColor=a8d8ea" alt="Sohib Khan Banner" />
+    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:0A2342,65:0066CC,100:00C9FF&height=160&section=header&text=Sohib%20Khan&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Tester%20%7C%20QA%20Engineer%20%7C%20Bug%20Hunter&descAlignY=58&descSize=15&descColor=a8d8ea" alt="Sohib Khan Banner" />
   </a>
 </p>
 
@@ -67,3 +67,22 @@ A result-oriented and passionate <b>Software Tester & QA Engineer</b> driven by 
 ⚙️ Functional Specification Audit   ████████████████████░░░░░░░  85%
 📮 API Verification (Postman)      ██████████████████░░░░░░░░░  80%
 ☕ Core Java Foundations           ████████████████░░░░░░░░░░░  70%
+```
+
+<br/>
+
+<!-- ═══════════════════════ FOOTER : CONNECT WITH ME ═══════════════════════ -->
+## 📫 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sohib-lodhi-6059083ab/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:sohiblodhi59@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
+
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,65:0A2342,100:0D1117&height=100&section=footer" alt="Footer Wave" />
+</p>
